@@ -95,6 +95,19 @@
     height: inherit;
     background-color: blue;
 }
+.skill-stat-Bootstrap{
+    border-radius: 0.8rem;
+    width: 75%;
+    height: inherit;
+    background-color: darkblue;
+}
+.skill-stat-OOPS{
+    border-radius: 0.8rem;
+    width: 70%;
+    height: inherit;
+    background-color: purple;
+}
+
 
 .skill-name span{
     margin-left: 0.5rem;
